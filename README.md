@@ -12,6 +12,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 See [LICENSE](LICENSE).
 
+## Documentation
+
+In order to document each and every section in a consistent fashion, a certain format was adopted, similar to the one used in the book [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns). See [Documentation](Documentation.md).
+
 ## Foundation
 
 * [Routing](Foundation/Routing.md)
