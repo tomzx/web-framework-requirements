@@ -27,25 +27,30 @@ See [LICENSE](LICENSE).
 * Authorization
 * Caching
 * Command line
+* Configuration
 * Data access
 * Date and time
 * Dependency injection
 * Deployment
 * Email
+* Encryption
 * Event
-* Files
+* File
 * Filtering
+* Hashing
 * Internationalization
 * Logging
 * Migration
-* Notifications
-* Numbers
+* Notification
+* Number
+* Pagination
+* Process
 * Queue
 * Routing
 * Search
-* Strings
+* String
 * Task
-* Templates
+* Template
 * Testing
 * URL
 * Validation
