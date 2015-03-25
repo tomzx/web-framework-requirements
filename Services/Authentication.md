@@ -51,7 +51,10 @@ It is preferred for user passwords to be hashed over being encrypted. Encryption
 	* The constraints used to uniquely identify an account should be configurable.
 		* Whether you want email + password, or username + password or simply a password, all option should be supported.
 * A user should be able to activate his account if said account is linked to external authentication sources, such as an email address (to prove that the user is truly the owner of the provided email account).
-* A administrator should be able to suspend/ban a account if the user's behavior goes against the system's policies.
+* An administrator should be able to suspend/ban a account if the user's behavior goes against the system's policies.
+* An administrator should be able to add new account.
+* An administrator should be able to edit account details.
+* An administrator should be able to delete an account.
 * The system should throttle user authentication attempts in order to prevent brute forcing.
 * The system should allow the user to reset his password when the user forgets his.
 
