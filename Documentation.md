@@ -10,6 +10,7 @@ In order to document each and every section in a consistent fashion, a certain f
 * **Implementation:** A description of an implementation of the service.
 * **Known Uses:** Examples of real usages of the service.
 * **Related Services:** Other services that have some relationship with the service; discussion of the differences between the service and similar services.
+* **Todo:** Items which have not been touched yet but deserve to be described in more details. Feedback and help welcomed!
 
 ## Adapted from
 
